@@ -1,0 +1,12 @@
+ul {
+    display: flex;  
+    list-style: none;
+}
+
+.image {
+    width: 250px;
+    height: 150px;
+    border-radius:5px;
+    margin-left: 10px;
+}
+
